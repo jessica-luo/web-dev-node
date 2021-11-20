@@ -14,8 +14,8 @@ module.exports = (app) => {
             "verified": false,
             "handle": "ReactJS",
             "time": "2h",
-            "avatar-image": "../../../images/react-blue.png",
-            "logo-image": "../../../images/react-blue.png",
+            "avatar-image": "/images/nodejs.png",
+            "logo-image": "/images/nodejs.png",
             "stats": {
                 "comments": 0,
                 "retweets": 0,
